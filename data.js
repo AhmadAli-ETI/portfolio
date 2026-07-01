@@ -5,8 +5,6 @@ const portfolioData = {
     location: "Kottingbrunn, Österreich",
     email: "AhmadAlibusiness@icloud.com",
     phone: "+43 651 10474771",
-    github: "github.com/AhmadAli", // Placeholder - to be updated by user
-    linkedin: "#",
     about: "Leidenschaftlicher Entwickler im Bereich der Elektronik und technischen Informatik. Mein Fokus liegt auf Embedded Systems, Leiterplattendesign (PCB) und Netzwerktechnik. Ich liebe es, Hardware und Software nahtlos miteinander zu verbinden, um präzise Messgeräte und optimierte Netzwerke zu schaffen.",
     avatar: "profile.jpg" // Can be filled with a profile image path
   },
