@@ -4,7 +4,7 @@ const portfolioData = {
     title: "Elektronik & Technische Informatik",
     location: "Kottingbrunn, Österreich",
     email: "AhmadAlibusiness@icloud.com",
-    phone: "+43 651 10474771",
+    phone: "+43 681 10474771",
     about: "Leidenschaftlicher Entwickler im Bereich der Elektronik und technischen Informatik. Mein Fokus liegt auf Embedded Systems, Leiterplattendesign (PCB) und Netzwerktechnik. Ich liebe es, Hardware und Software nahtlos miteinander zu verbinden, um präzise Messgeräte und optimierte Netzwerke zu schaffen.",
     avatar: "profile.jpg" // Can be filled with a profile image path
   },
